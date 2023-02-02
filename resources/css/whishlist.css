@@ -1,0 +1,9 @@
+.whishlist_btn {
+    background-color: rgba(var(--color-button),var(--alpha-button-background));
+    color: rgb(var(--color-button-text));
+    font-size: 1.4rem;
+    line-height: calc(1 + .2 / var(--font-body-scale));
+    letter-spacing: .07rem;
+    min-width: calc(12rem + var(--buttons-border-width) * 2);
+    min-height: calc(4.5rem + var(--buttons-border-width) * 2);
+}
